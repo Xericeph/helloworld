@@ -1,3 +1,3 @@
-This is my first python program
+This is my first Pythom program
 
 This feature is awesome.
